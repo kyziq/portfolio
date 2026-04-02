@@ -11,5 +11,8 @@
 	},
 	"observability": {
 		"enabled": true
-	}
+	},
+	"routes": [
+		{ "pattern": "kyziq.com", "custom_domain": true }
+	]
 }
